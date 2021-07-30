@@ -8,7 +8,7 @@
 # Four algorithmic tasks:
 
 1. Find the strong connected components including diagonals (concurrently):<br />
- input: 2D array of int<br />
+\t input: 2D array of int<br />
  output: A list of SCC sort by the size of single SCC.<br />
  example: <br />
  input- [1, 0, 0]<br />
