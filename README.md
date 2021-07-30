@@ -37,9 +37,10 @@
    4.The minimum distance between two submarines is one slot.<br />
  example:<br />
  input- <br />
-  - [1, 1, 0, 1, 1]<br />
-  - [1, 0, 0, 1, 1]<br />
-  - [1, 0, 0, 1, 1]<br />
+ > [1, 1, 0, 1, 1]<br />
+ > [1, 0, 0, 1, 1]<br />
+ > [1, 0, 0, 1, 1]<br />
+
  output- 1<br />
  input- <br />
  [1, 1, 0, 1, 1]<br />
