@@ -8,12 +8,13 @@
 # Four algorithmic tasks:
 
 1. Find the strong connected components including diagonals (concurrently):<br />
-\t input: 2D array of int<br />
+ input: 2D array of int<br />
  output: A list of SCC sort by the size of single SCC.<br />
  example: <br />
- input- [1, 0, 0]<br />
-        [1, 0, 1]<br />
-        [0, 1, 1]<br />
+ input-
+  [1, 0, 0]<br />
+  [1, 0, 1]<br />
+  [0, 1, 1]<br />
  output- [(0,0), (1,0), (1,2), (2,1), (2,2)]<br />
 
 2.Find the shortest paths between two nodes:<br />
