@@ -15,6 +15,7 @@
  > [1, 0, 0]<br />
  > [1, 0, 1]<br />
  > [0, 1, 1]<br />
+ 
  output- [(0,0), (1,0), (1,2), (2,1), (2,2)]<br />
 
 ## 2.Find the shortest paths between two nodes:<br />
@@ -25,6 +26,7 @@
  > [1, 1, 0]<br />
  > [1, 0, 1]<br />
  > [0, 1, 1]<br />
+ 
  output- [[(0, 0), (1, 0), (2,1), (2,2)], [(0, 0), (0, 1), (1, 2), (2, 2)]]<br />
 
 ## 3.Submarine game (concurrently):<br />
@@ -40,12 +42,13 @@
  > [1, 1, 0, 1, 1]<br />
  > [1, 0, 0, 1, 1]<br />
  > [1, 0, 0, 1, 1]<br />
-
+ 
  output- 1<br />
  input- <br />
  > [1, 1, 0, 1, 1]<br />
  > [0, 0, 0, 1, 1]<br />
  > [1, 1, 0, 1, 1]<br />
+ 
  output- 3<br />
 
 ## 4.Find the simplest path between two nodes:<br />
@@ -55,8 +58,9 @@
  input- <br />
  > [100, 100, 100] <br />
  > [500, 900, 300]<br />
-        source node - (1,0)<br />
-        destination node - (1, 2)<br />
+ > source node - (1,0)<br />
+ > destination node - (1, 2)<br />
+     
  output- [(1, 0), (0, 0), (0, 1), (0, 2), (1, 2)]<br />
   
  # Instructions for running the code:
