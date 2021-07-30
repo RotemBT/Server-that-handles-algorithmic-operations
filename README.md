@@ -6,7 +6,8 @@
  The various operations and client care may be carried out in concurrently.<br />
 
 # Four algorithmic tasks:
-1. Find the strong connected components including diagonals (concurrently):<br />
+
+1.Find the strong connected components including diagonals (concurrently):<br />
  input: 2D array of int<br />
  output: A list of SCC sort by the size of single SCC.<br />
  example: <br />
